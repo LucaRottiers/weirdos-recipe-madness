@@ -1,0 +1,20 @@
+{
+    "recipes": [
+        {
+            "name": "recipe1",
+            "image_banner": "/assets/",
+            "ingredients": [
+                {
+                    "name": "",
+                    "quantity": "",
+                    "measurement": ""
+                }
+            ],
+            "preparation_steps": [
+                "",
+                ""
+            ]
+        },
+        {}
+    ]
+}

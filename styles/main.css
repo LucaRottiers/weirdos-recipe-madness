@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'timeburner';
+    src: url('/fonts/timeburnernormal.woff') format('woff'),
+        url('/fonts/timeburnernormalbold.ttf') format('truetype');
+}
+
+body {
+    margin: auto;
+    background-color: #eeeed7;
+    padding-left: clamp(5%, 10vw, 20%);
+    padding-right: clamp(5%, 10vw, 20%);
+}
+
+h1 {
+    font-family: 'timeburner';
+    font-size: clamp(4rem, 10vw, 7rem);
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.typewriter {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+}
