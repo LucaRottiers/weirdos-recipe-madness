@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'timeburner';
-    src: url('/fonts/timeburnernormal.woff') format('woff'),
-        url('/fonts/timeburnernormalbold.ttf') format('truetype');
+    src: url('fonts/timeburnernormal.woff') format('woff'),
+        url('fonts/timeburnernormalbold.ttf') format('truetype');
 }
 
 body {
