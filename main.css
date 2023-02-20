@@ -13,13 +13,14 @@ body {
 
 h1 {
     font-family: 'timeburner';
-    font-size: clamp(4rem, 10vw, 7rem);
+    font-size: clamp(3rem, 10vw, 7rem);
     text-align: center;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 table {
@@ -34,4 +35,41 @@ table {
 
 p {
     text-align: justify;
+}
+
+.single-instruction {
+    margin-bottom: 40px;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #000;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.25rem;
+}
+
+header span {
+    background: #eeeed7;
+    padding: 0 10px;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    border: 1px solid;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 20px;
+}
+
+.ingredient {
+    width: 70%;
+}
+
+.amount {
+    width: 30%;
 }
