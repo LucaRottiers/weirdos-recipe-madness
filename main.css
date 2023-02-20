@@ -18,7 +18,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5rem;
+    font-size: clamp(1.5rem, 10vw, 3rem);
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
@@ -48,7 +48,7 @@ header {
     line-height: 0.1em;
     margin: 10px 0 20px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1.25rem;
+    font-size: clamp(1.25rem, 10vw, 2.5rem);;
 }
 
 header span {
@@ -63,7 +63,7 @@ table {
     border: 1px solid;
     margin-top: 60px;
     margin-bottom: 60px;
-    padding: 20px;
+    padding: clamp(10px, 10vw, 20px);
 }
 
 .ingredient {
