@@ -19,6 +19,7 @@ h1 {
 
 h2 {
     font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 table {
@@ -29,4 +30,8 @@ table {
 .typewriter {
     font-family: 'Courier New', Courier, monospace;
     line-height: 1.5;
+}
+
+p {
+    text-align: justify;
 }
