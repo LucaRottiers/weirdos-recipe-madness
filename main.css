@@ -13,7 +13,7 @@ body {
 
 h1 {
     font-family: 'timeburner';
-    font-size: clamp(3rem, 10vw, 7rem);
+    font-size: clamp(2.5rem, 2vw, 7rem);
     text-align: center;
 }
 
@@ -21,11 +21,6 @@ h2 {
     font-size: clamp(1.5rem, 2vw, 3rem);
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .typewriter {
@@ -62,9 +57,13 @@ table {
     margin: auto;
     font-family: 'Courier New', Courier, monospace;
     border: 1px solid;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     padding: clamp(5px, 4vw, 20px);
+}
+
+th {
+    text-align: left;
 }
 
 .ingredient {
@@ -74,3 +73,46 @@ table {
 .amount {
     width: 30%;
 }
+
+.wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+.polaroid {
+    background: #edede6;
+    padding: 1rem;
+    box-shadow: 0 0.2rem 1.2rem rgba(0, 0, 0, 0.2);
+
+}
+
+.polaroid>img {
+    max-width: 100%;
+    height: auto;
+    filter: sepia(0.7);
+}
+
+.caption {
+    font-size: 1.8rem;
+    text-align: center;
+    line-height: 2em;
+}
+
+.item {
+    width: 100%;
+    display: flex;
+    margin-top: 2rem;
+}
+
+.item .polaroid:before {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    transition: all 0.35s;
+}
+
+.item:nth-of-type(4n+1) {
+    transform: scale(0.8, 0.8) rotate(5deg);
+    transition: all 0.35s;
+}
+
