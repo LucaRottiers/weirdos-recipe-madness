@@ -1,5 +1,5 @@
 ---
-title: Pasta with Avocado- and Arugulapesto
+title: Avocado- and Arugula Pasta
 tags: main-course pasta avocado veggie
 article_header:
   type: overlay
