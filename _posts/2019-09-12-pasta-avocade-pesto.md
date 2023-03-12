@@ -1,6 +1,6 @@
 ---
 title: Avocado- and Arugula Pasta
-tags: main-course pasta avocado veggie
+tags: main-course pasta veggie
 article_header:
   type: overlay
   background_image:
