@@ -1,6 +1,6 @@
 ---
 title: Shepherd's Pie
-tags: main-course UK potatoes
+tags: main-course UK potatoes oven-baked
 article_header:
   type: overlay
   background_image:

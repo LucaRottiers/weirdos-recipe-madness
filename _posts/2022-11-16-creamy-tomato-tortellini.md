@@ -11,17 +11,17 @@ article_header:
 
 ## Ingredients
 
-| Ingredient | Amount |
-| ---------- | ------ |
-| Olive oil           |  3tbsp      |
-|Butter|50g|
-|Garlic|3 cloves|
-|Cherry tomatoes|500g|
-|White wine|80ml|
-|Heavy cream|250ml|
-|Tortellini|500g|
-|Parmesan cheese|100g|
-|Fresh basil (optional)| 3 sprigs|
+| Ingredient             | Amount   |
+| ---------------------- | -------- |
+| Olive oil              | 3tbsp    |
+| Butter                 | 50g      |
+| Garlic                 | 3 cloves |
+| Cherry tomatoes        | 500g     |
+| White wine             | 80ml     |
+| Heavy cream            | 250ml    |
+| Tortellini             | 500g     |
+| Parmesan cheese        | 100g     |
+| Fresh basil (optional) | 3 sprigs |
 
 ## Preparation
 
@@ -41,7 +41,7 @@ Add in salt and pepper, then stir and cover with a lid.
 
 ---
 
-Let it simmer for about 15 minutes on low heat and then it's ready for  the pasta! Cook the pasta according to the packet. Set this aside once it is almost al-dente.
+Let it simmer for about 15 minutes on low heat and then it's ready for the pasta! Cook the pasta according to the packet. Set this aside once it is almost al-dente.
 
 ---
 
