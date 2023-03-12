@@ -1,5 +1,5 @@
 ---
-title: One-Pot Chicken Spinach Bacon Alfredo
+title: One-Pot Chicken and Bacon Alfredo Pasta
 tags: main-course pasta chicken one-pot
 article_header:
   type: overlay
