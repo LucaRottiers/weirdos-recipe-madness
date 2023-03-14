@@ -20,7 +20,7 @@ article_header:
 | Garlic            | 2 cloves |
 | Parmesan cheese   | 200g     |
 | Heavy cream       | 250ml    |
-| Itilian spice mix | 2tsp     |
+| Italian spice mix | 2tsp     |
 
 ## Preparation
 
